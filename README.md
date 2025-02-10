@@ -3,7 +3,7 @@
  ## [Video Demonstration](https://drive.google.com/file/d/1GK1t17ISLAwEk4YCENDHAI0WkfwPp-_f/view?usp=sharing)
 
 <h2>Description</h2>
-This lab demonstrates credential harvesting attack using Social Engineering Toolkit.
+This lab demonstrates how to perform a social engineering attack to sniff user's credentials using the Social-Engineer Toolkit (SET).
 <br />
 
 <h2>Lab walk-through:</h2>
